@@ -1,2 +1,2 @@
-# umbc-generator
-Create new abbreviations for UMBC.
+# whats-happening
+See what events are happening at UMBC and where.
